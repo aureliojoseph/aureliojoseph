@@ -1,9 +1,9 @@
-# ### Hi there 👋
+# Hi there 👋
 I'm Aurelio Borges.
 
 --> Frontend Web Developer || HTML || CSS || JavaScript || React.Js || Strategic Management <--
 
-# ## About Me
+# About Me
 Since 2008 I've been working on Business Management, helping people improve their skills and companies achieve their goals.
 
 In 2011, I started a retail franchise Business where I coordinate financial and administrative areas, managing 2 stores.
@@ -14,22 +14,22 @@ My background as a Consultant and in Management has shown me that a solid Strate
 
 I am currently an Associate Consultant at Miguelina Borges Consultoria Empresarial, the Administrative and Financial Manager for Kidstok Buriti and Cerrado, and I am freelancing as a Frontend Web Developer.
 
-# ## My Skills
+# My Skills
 - HTML5
 - CSS3
 - JavaScript
 - React.js
 
-# ## You can find out more about my work on https://aurelioborges.netlify.app
+## You can find out more about my work on https://aurelioborges.netlify.app
 
 ################################################################
 
-# ### Olá 👋
+# Olá 👋
 Sou Aurelio Borges.
 
 --> Frontend Web Developer || HTML || CSS || JavaScript || React.Js || Gestão Estratégica <--
 
-# ## Sobre
+# Sobre
 Desde 2008 atuo em Gestão Empresarial, ajudando pessoas a desenvolver suas habilidades e empresas a atingirem suas metas.
 
 Em 2011 me tornei franqueado de varejo, onde coordeno as áreas administrativa e financeira, fazendo a gestão de duas lojas.
@@ -40,12 +40,12 @@ Minha experiência como Gestor e Consultor tem me mostrado que um Planejamento E
 
 Atualmente sou Consultor Associado no escritório Miguelina Borges Consultoria Empresarial, Gestor Administrativo e Financeiro nas lojas Kidstok Buriti and Cerrado, e Desenvolvedor Frontend Freelancer.
 
-# ## Meus Skills
+# Meus Skills
 - HTML5
 - CSS3
 - JavaScript
 - React.js
 
-# ## Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
+## Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
 
 ################################################################
