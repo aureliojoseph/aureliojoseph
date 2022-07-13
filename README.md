@@ -20,7 +20,7 @@ I am currently an Associate Consultant at Miguelina Borges Consultoria Empresari
 - JavaScript
 - React.js
 
-## You can find out more about my work on https://aurelioborges.netlify.app
+### You can find out more about my work on https://aurelioborges.netlify.app
 
 ################################################################
 
@@ -46,6 +46,6 @@ Atualmente sou Consultor Associado no escritório Miguelina Borges Consultoria E
 - JavaScript
 - React.js
 
-## Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
+### Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
 
 ################################################################
