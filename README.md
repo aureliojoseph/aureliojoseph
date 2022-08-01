@@ -1,18 +1,18 @@
 # Hi there 👋
 I'm Aurelio Borges.
 
---> Frontend Web Developer || HTML || CSS || JavaScript || React.Js || Strategic Management <--
+--> Frontend Web Developer || HTML || CSS || JavaScript || ReactJS || Strategic Management <--
 
 # About Me
 Since 2008 I've been working on Business Management, helping people improve their skills and companies achieve their goals.
 
-In 2011, I started a retail franchise Business where I coordinate financial and administrative areas, managing 2 stores.
+In 2011, I started a retail franchise Business where I coordinated financial and administrative areas, managing 3 stores.
 
-The programming world started recently as a curiosity and turned out to be an infinite universe where I see myself in. Therefore, I started to learn the path to become a Web Developer.
+My background as a Manager and Consultant has shown me that a solid Strategic Planning is the key to inspiring people with an authentic sense of belonging to organizations, and this is also valid for a genuine customer experience, transforming the performance of the company and the product.
 
-My background as a Consultant and in Management has shown me that a solid Strategic Plan inspires a stronger sense of belonging for people at organizations, and this is also valid for customers' experience, directly reflecting on the performance of the company and the product. And that is why I am very interested about users interactions and how it affects their experience of products and services.
+The world of programming started for me as a curiosity, and it turned into an extraordinary and fascinating universe, which I am passionate about!
 
-I am currently an Associate Consultant at Miguelina Borges Consultoria Empresarial, the Administrative and Financial Manager for Kidstok Buriti and Cerrado, and I am freelancing as a Frontend Web Developer.
+My main focus is to build fully responsive, complete, practical and easy to use websites and web applications, delving daily into HTML, CSS, JavaScript and ReactJS.
 
 # My Skills
 - HTML5
@@ -27,18 +27,18 @@ I am currently an Associate Consultant at Miguelina Borges Consultoria Empresari
 # Olá 👋
 Sou Aurelio Borges.
 
---> Frontend Web Developer || HTML || CSS || JavaScript || React.Js || Gestão Estratégica <--
+--> Frontend Web Developer || HTML || CSS || JavaScript || ReactJS || Gestão Estratégica <--
 
 # Sobre
 Desde 2008 atuo em Gestão Empresarial, ajudando pessoas a desenvolver suas habilidades e empresas a atingirem suas metas.
 
-Em 2011 me tornei franqueado de varejo, onde coordeno as áreas administrativa e financeira, fazendo a gestão de duas lojas.
+Em 2011 me tornei franqueado de varejo, onde coordenei as áreas administrativa e financeira, fazendo a gestão de três lojas.
 
-O mundo da programação começou para mim como uma curiosidade, e se mostrou um universo vasto e profundo onde me vejo explorando. Portanto, comecei a aprender o caminho para me tornar um Desenvolvedor Web.
+Minha experiência como Gestor e Consultor tem me mostrado que um Planejamento Estratégico sólido é a chave para inspirar nas pessoas um autêntico senso de pertencimento às organizações, e isso também é válido para uma experiência genuína dos clientes, transformando a performance da empresa e do produto.
 
-Minha experiência como Gestor e Consultor tem me mostrado que um Planejamento Estratégico sólido inspira nas pessoas um forte senso de pertencimento às organizações, e isso também é válido para as experiências dos clientes, refletindo diretamente na performance da empresa e do produto. E é por isso que me interesso bastante nas interações dos usuários e em como isso afeta suas experiências com produtos e serviços.
+O mundo da programação começou para mim como uma curiosidade, e se transformou em um universo extraordinário e fascinante, pelo qual sou apaixonado!
 
-Atualmente sou Consultor Associado no escritório Miguelina Borges Consultoria Empresarial, Gestor Administrativo e Financeiro nas lojas Kidstok Buriti and Cerrado, e Desenvolvedor Frontend Freelancer.
+Meu foco principal é construir sites e aplicações web totalmente responsivos, completos, práticos e fáceis de utilizar, me aprofundando diariamente em HTML, CSS, JavaScript e ReactJS.
 
 # Meus Skills
 - HTML5
