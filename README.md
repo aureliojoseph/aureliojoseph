@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Aurelio Borges.
 
---> Frontend Web Developer || HTML || CSS || JavaScript || ReactJS || Strategic Management <--
+--> Frontend Developer | HTML | CSS | JavaScript | ReactJs | VueJs <--
 
 # About Me
 Since 2008 I've been working on Business Management, helping people improve their skills and companies achieve their goals.
@@ -12,13 +12,14 @@ My background as a Manager and Consultant has shown me that a solid Strategic Pl
 
 The world of programming started for me as a curiosity, and it turned into an extraordinary and fascinating universe, which I am passionate about!
 
-My main focus is to build fully responsive, complete, practical and easy to use websites and web applications, delving daily into HTML, CSS, JavaScript and ReactJS.
+My main focus in front-end development is to build fully responsive, complete, practical and easy to use websites and web applications, delving daily into what is most current in frontend languages and frameworks.
 
 # My Skills
 - HTML5
 - CSS3
 - JavaScript
-- React.js
+- ReactJs
+- VueJs
 
 ### You can find out more about my work on https://aurelioborges.netlify.app
 
@@ -27,7 +28,7 @@ My main focus is to build fully responsive, complete, practical and easy to use 
 # Olá 👋
 Sou Aurelio Borges.
 
---> Frontend Web Developer || HTML || CSS || JavaScript || ReactJS || Gestão Estratégica <--
+--> Frontend Developer | HTML | CSS | JavaScript | ReactJs | VueJs <--
 
 # Sobre
 Desde 2008 atuo em Gestão Empresarial, ajudando pessoas a desenvolver suas habilidades e empresas a atingirem suas metas.
@@ -38,13 +39,14 @@ Minha experiência como Gestor e Consultor tem me mostrado que um Planejamento E
 
 O mundo da programação começou para mim como uma curiosidade, e se transformou em um universo extraordinário e fascinante, pelo qual sou apaixonado!
 
-Meu foco principal é construir sites e aplicações web totalmente responsivos, completos, práticos e fáceis de utilizar, me aprofundando diariamente em HTML, CSS, JavaScript e ReactJS.
+Meu foco principal no desenvolvimento front-end é construir sites e aplicações web totalmente responsivos, completos, práticos e fáceis de usar, mergulhando diariamente no que há de mais atual em linguagens e frameworks front-end.
 
 # Meus Skills
 - HTML5
 - CSS3
 - JavaScript
-- React.js
+- ReactJs
+- VueJs
 
 ### Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
 
