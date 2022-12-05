@@ -23,7 +23,7 @@ Working alongside diverse and multidisciplinary teams (Agile Methodologies || Sc
 
 ### You can find out more about my work on https://aurelioborges.netlify.app
 
-################################################################################################################################
+##############################################################
 
 # Olá 👋
 Sou Aurelio Borges.
@@ -50,4 +50,4 @@ Trabalhar ao lado de equipes diversas e multidisciplinares (Metodologias Ágeis 
 
 ### Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
 
-################################################################################################################################
+##############################################################
