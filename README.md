@@ -52,4 +52,4 @@ Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Q
 ### SCSS
 
 
-#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/landing-page-2.0-pt-br/
+#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/landing-page-2.0_eng/
