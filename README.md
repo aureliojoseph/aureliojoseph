@@ -23,7 +23,7 @@ Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Qua
 ### SCSS
 
 
-#### You can find out more about my work on https://aurelioborges.netlify.app
+#### You can find out more about my work on https://aureliojoseph.github.io/landing-page-2.0_eng/
 
 ##############################################################
 
@@ -52,4 +52,4 @@ Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Q
 ### SCSS
 
 
-#### Descubra mais sobre meu trabalho: https://aurelioborges.netlify.app
+#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/landing-page-2.0-pt-br/
