@@ -16,12 +16,11 @@ Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Qua
 
 ### TypeScript
 
+### SASS
+
 ### HTML5
 
 ### CSS3
-
-### SCSS
-
 
 #### You can find out more about my work on https://aureliojoseph.github.io/landing-page-2.0_eng/
 
@@ -45,11 +44,11 @@ Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Q
 
 ### TypeScript
 
+### SCSS
+
 ### HTML5
 
 ### CSS3
-
-### SCSS
 
 
 #### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/landing-page-2.0_eng/
