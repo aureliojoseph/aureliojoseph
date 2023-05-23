@@ -22,7 +22,7 @@ Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Qua
 
 ### CSS3
 
-#### You can find out more about my work on https://aureliojoseph.github.io/landing-page-2.0_eng/
+#### You can find out more about my work on https://aureliojoseph.github.io/my-work/
 
 ##############################################################
 
@@ -51,4 +51,4 @@ Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Q
 ### CSS3
 
 
-#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/landing-page-2.0_eng/
+#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work/
