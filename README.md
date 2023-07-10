@@ -2,9 +2,9 @@
 I'm Aurelio Borges.
 
 ## About Me
-I'm a Software Developer focused on building fully responsive, complete, practical and easy-to-use websites and web applications, delving daily into the most current Frontend frameworks and technologies. The world of programming is an extraordinary and fascinating universe, which I am passionate about!
+I am a Software engineer specialized in building responsive and optimized web applications. I have delivered high-quality software solutions, with a primary focus on VueJs and ReactJs, ensuring substantial business growth for multiple clients.
 
-Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Quality Assurance and Backend, gives me an overview of the entire development process, where I can learn and contribute at each stage.
+My experience collaborating with great Designer and Developer teams has given me an overview of the entire development process, where I can learn and contribute at each stage. I am confident in my ability to develop and maintain platforms and web apps. I am a team player and like to work contributing my expertise to the team. My goal is to develop scalable, high-quality software solutions and to collaborate with professionals who value excellence, innovation and teamwork.
 
 ## My Skills
 
@@ -14,15 +14,19 @@ Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Qua
 
 ### ReactJs
 
+### NextJs
+
 ### TypeScript
 
 ### SASS
+
+### Design Patterns | B.E.M.
 
 ### HTML5
 
 ### CSS3
 
-#### You can find out more about my work on https://aureliojoseph.github.io/my-work/
+#### You can find out more about my work on https://aureliojoseph.github.io/my-work
 
 ##############################################################
 
@@ -30,9 +34,9 @@ Working alongside diverse and multidisciplinary teams, such as UI/UX Design, Qua
 Sou Aurelio Borges.
 
 ## Sobre
-Sou um Desenvolvedor de Software focado em construir sites e aplicações web totalmente responsivos, completos, práticos e fáceis de usar, me aprofundando diariamente nos frameworks e tecnologias Frontend mais atuais. O mundo da programação é um universo extraordinário e fascinante, pelo qual sou apaixonada!
+Sou um Desenvolvedor de Softwares especializado na construção de aplicações web responsivas e otimizadas. Entreguei soluções de software de alta qualidade, com foco principal em VueJs e ReactJs, garantindo um crescimento substancial dos negócios para vários clientes.
 
-Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Quality Assurance e Backend, me dá uma visão geral de todo o processo de desenvolvimento, onde posso aprender e contribuir em cada etapa.
+Minha experiência colaborando com grandes equipes de Designer e Desenvolvedor me deu uma visão geral de todo o processo de desenvolvimento, onde posso aprender e contribuir em cada etapa. Estou confiante em minha capacidade de desenvolver e manter plataformas e aplicativos da web. Sou um jogador de equipe e gosto de trabalhar contribuindo com meus conhecimentos para a equipe. Meu objetivo é desenvolver soluções de software escaláveis e de alta qualidade e colaborar com profissionais que valorizam excelência, inovação e trabalho em equipe.
 
 ## Meus Skills
 
@@ -42,13 +46,17 @@ Trabalhar ao lado de equipes diversas e multidisciplinares, como UI/UX Design, Q
 
 ### ReactJs
 
+### NextJs
+
 ### TypeScript
 
-### SCSS
+### SASS
+
+### Design Patterns | B.E.M.
 
 ### HTML5
 
 ### CSS3
 
 
-#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work/
+#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work
