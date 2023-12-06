@@ -18,6 +18,8 @@ My experience collaborating with great Designer and Developer teams has given me
 
 ### TypeScript
 
+### TailwindCSS
+
 ### SASS
 
 ### Design Patterns | B.E.M.
@@ -49,6 +51,8 @@ Minha experiência colaborando com grandes equipes de Designer e Desenvolvedor m
 ### NextJs
 
 ### TypeScript
+
+### TailwindCSS
 
 ### SASS
 
