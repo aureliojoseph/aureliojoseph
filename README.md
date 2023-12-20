@@ -36,7 +36,7 @@ My experience collaborating with great Designer and Developer teams has given me
 Sou Aurelio Borges.
 
 ## Sobre
-Sou um Desenvolvedor de Softwares especializado na construção de aplicações web responsivas e otimizadas. Entreguei soluções de software de alta qualidade, com foco principal em Vue e ReactJs, garantindo um crescimento substancial dos negócios para vários clientes.
+Sou um Desenvolvedor de Softwares especializado na construção de aplicações web responsivas e otimizadas. Entreguei soluções de software de alta qualidade, com foco principal em Vue e React, garantindo um crescimento substancial dos negócios para vários clientes.
 
 Minha experiência colaborando com grandes equipes de Designer e Desenvolvedor me deu uma visão geral de todo o processo de desenvolvimento, onde posso aprender e contribuir em cada etapa. Estou confiante em minha capacidade de desenvolver e manter plataformas e aplicativos da web. Sou um jogador de equipe e gosto de trabalhar contribuindo com meus conhecimentos para a equipe. Meu objetivo é desenvolver soluções de software escaláveis e de alta qualidade e colaborar com profissionais que valorizam excelência, inovação e trabalho em equipe.
 
