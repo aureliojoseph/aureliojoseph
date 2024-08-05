@@ -14,6 +14,8 @@ My experience collaborating with great Designer and Developer teams has given me
 
 ### Vue
 
+### Nuxt
+
 ### React
 
 ### NextJs
@@ -47,6 +49,8 @@ Minha experiência colaborando com grandes equipes de Designer e Desenvolvedor m
 ### TypeScript
 
 ### Vue
+
+### Nuxt
 
 ### React
 
