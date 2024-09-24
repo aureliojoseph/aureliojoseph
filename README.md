@@ -1,34 +1,21 @@
 # Hi there 👋
 I'm Aurelio Borges.
 
-## About Me
-I am a Software engineer specialized in building responsive and optimized web applications. I have delivered high-quality software solutions, with a primary focus on Vue and React, ensuring substantial business growth for multiple clients.
+Frontend Software Engineer with +2 years of experience after making a successful career change.
 
-My experience collaborating with great Designer and Developer teams has given me an overview of the entire development process, where I can learn and contribute at each stage. I am confident in my ability to develop and maintain platforms and web apps. I am a team player and like to work contributing my expertise to the team. My goal is to develop scalable, high-quality software solutions and to collaborate with professionals who value excellence, innovation and teamwork.
+Focused on building modern, high-quality solutions using Vue and Nuxt. I'm passionate about creating scalable, SEO-friendly applications that prioritize growth, performance and user experience.
 
 ## My Skills
 
-### JavaScript
+### JavaScript | TypeScript
 
-### TypeScript
+### Vue | Nuxt
 
-### Vue
+### React | NextJs
 
-### Nuxt
-
-### React
-
-### NextJs
-
-### Tailwind CSS
-
-### SASS | SCSS
+### Tailwind | SASS | SCSS
 
 ### Design Patterns | B.E.M.
-
-### HTML5
-
-### CSS3
 
 #### You can find out more about my work on https://aureliojoseph.github.io/my-work
 
@@ -37,33 +24,8 @@ My experience collaborating with great Designer and Developer teams has given me
 # Olá 👋
 Sou Aurelio Borges.
 
-## Sobre
-Sou um Desenvolvedor de Softwares especializado na construção de aplicações web responsivas e otimizadas. Entreguei soluções de software de alta qualidade, com foco principal em Vue e React, garantindo um crescimento substancial dos negócios para vários clientes.
+Engenheiro de software frontend com +2 anos de experiência após uma mudança de carreira bem-sucedida.
 
-Minha experiência colaborando com grandes equipes de Designer e Desenvolvedor me deu uma visão geral de todo o processo de desenvolvimento, onde posso aprender e contribuir em cada etapa. Estou confiante em minha capacidade de desenvolver e manter plataformas e aplicativos da web. Sou um jogador de equipe e gosto de trabalhar contribuindo com meus conhecimentos para a equipe. Meu objetivo é desenvolver soluções de software escaláveis e de alta qualidade e colaborar com profissionais que valorizam excelência, inovação e trabalho em equipe.
-
-## Meus Skills
-
-### JavaScript
-
-### TypeScript
-
-### Vue
-
-### Nuxt
-
-### React
-
-### NextJs
-
-### TailwindCSS
-
-### SASS | SCSS
-
-### Design Patterns | B.E.M.
-
-### HTML5
-
-### CSS3
+Focado em construir soluções modernas e de alta qualidade usando Vue e Nuxt. Sou apaixonado por criar aplicativos escaláveis ​​e amigáveis ​​a SEO que priorizam crescimento, desempenho e experiência do usuário.
 
 #### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work
