@@ -1,9 +1,11 @@
 # Hi there 👋
 I'm Aurelio Borges.
 
-Frontend Software Engineer with +2 years of experience after making a successful career change.
+Frontend Developer with +2 years of experience, after making a successful career change.
 
-Focused on building modern, high-quality solutions using Vue and Nuxt. I'm passionate about creating scalable, SEO-friendly applications that prioritize growth, performance and user experience.
+My most recent work has been dedicated to optimizing URL architecture and enhancing performance. The result has been a perfect performance score for several webpages, a significant uptick in revenue and organic visibility, and reducing new customer acquisition costs.
+
+I'm focused on usability, targeting Growth, Performance and SEO, Responsive Design and UI/UX Best Practices.
 
 ## My Skills
 
@@ -17,6 +19,8 @@ Focused on building modern, high-quality solutions using Vue and Nuxt. I'm passi
 
 ### Design Patterns | B.E.M.
 
+### Performance and SEO
+
 #### You can find out more about my work on https://aureliojoseph.github.io/my-work
 
 ##############################################################
@@ -24,8 +28,10 @@ Focused on building modern, high-quality solutions using Vue and Nuxt. I'm passi
 # Olá 👋
 Sou Aurelio Borges.
 
-Engenheiro de software frontend com +2 anos de experiência após uma mudança de carreira bem-sucedida.
+Frontend Developer com +2 anos de experiência, após uma mudança de carreira bem-sucedida.
 
-Focado em construir soluções modernas e de alta qualidade usando Vue e Nuxt. Sou apaixonado por criar aplicativos escaláveis ​​e amigáveis ​​a SEO que priorizam crescimento, desempenho e experiência do usuário.
+Meu trabalho mais recente foi dedicado à otimização da arquitetura de URL e melhoria de desempenho. O resultado foi uma pontuação perfeita em performance ​para várias páginas da web e um aumento significativo em receita e visibilidade orgânica, também reduzindo custos de aquisição de novos clientes.
+
+Foco em usabilidade, visando Crescimento, Desempenho e SEO, Design Responsivo e Melhores Práticas de UI/UX.
 
 #### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work
