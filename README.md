@@ -1,37 +1,31 @@
 # Hi there 👋
 I'm Aurelio Borges.
 
-Frontend Developer with +2 years of experience, after making a successful career change.
+Brazilian Developer with +3 years of experience, focused on building scalable and maintainable web applications.
 
-My most recent work has been dedicated to optimizing URL architecture and enhancing performance. The result has been a perfect performance score for several webpages, a significant uptick in revenue and organic visibility, and reducing new customer acquisition costs.
+My most recent work has been dedicated to optimizing URL architecture, SEO features and enhancing performance. The result has been a perfect performance score for several webpages, a significant uptick in revenue and organic visibility, and reducing new customer acquisition costs.
 
-I'm focused on usability, targeting Growth, Performance and SEO, Responsive Design and UI/UX Best Practices.
+I target Usability, Growth, Customer Experience, Performance and SEO, Responsive Design and UI/UX Best Practices.
 
-## My Skills
+## Skills
 
-### JavaScript | TypeScript
+### Expertise in:
 
-### Vue | Nuxt
+✔️ JavaScript and TypeScript;
+✔️ Proficient in Vue apps, using Vite, Nuxt and SCSS:
+✔️ Customer Experience, Performance, Growth & SEO focused;
+✔️ Best practices, design patterns and optimization techniques;
+✔️ Skilled in React apps using Next, with SCSS and Tailwind CSS;
+✔️ State management of UI components (VueX, Redux), integrating APIs, functionalities and services;
+✔️ Unit Tests with Jest, Vitest, Vue Test Utils and React Testing Library;
+✔️ Maintenance and improvements in legacy code, with a focus on standardization and usability.
 
-### React | NextJs
+### Other Skills:
 
-### Tailwind | SASS | SCSS
+✔️ Optimal communication skills in remote and asynchronous work environments;
+✔️ Experience with remote teams using agile methodologies;
+✔️ Clarity in documenting tasks and pull requests;
+✔️ Highly organized, proactive, and detail-oriented, with a strong focus on problem-solving;
+✔️ Analytical and Planning skills.
 
-### Design Patterns | B.E.M.
-
-### Performance and SEO
-
-#### You can find out more about my work on https://aureliojoseph.github.io/my-work
-
-##############################################################
-
-# Olá 👋
-Sou Aurelio Borges.
-
-Frontend Developer com +2 anos de experiência, após uma mudança de carreira bem-sucedida.
-
-Meu trabalho mais recente foi dedicado à otimização da arquitetura de URL e melhoria de desempenho. O resultado foi uma pontuação perfeita em performance ​para várias páginas da web e um aumento significativo em receita e visibilidade orgânica, também reduzindo custos de aquisição de novos clientes.
-
-Foco em usabilidade, visando Crescimento, Desempenho e SEO, Design Responsivo e Melhores Práticas de UI/UX.
-
-#### Descubra mais sobre meu trabalho: https://aureliojoseph.github.io/my-work
+### You can find out more about my work on https://aureliojoseph.github.io/my-work
